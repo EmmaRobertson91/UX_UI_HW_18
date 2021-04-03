@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+</head>
+<body>
+<!--Nav-->
+    <nav>
+        <div class="logo">
+            <img src="images/Logo.svg">/Users/emmarobertson/Desktop/UX_UI_HW_18/Screen Shot 2021-04-02 at 10.53.59 PM.png</img>
+        </div>
+        <div class="nav-button-container">
+            <ul>
+                <li class="nav-button">
+                    <a href="www.google.com"><div class="inline-block">About</div></a>
+                </li>
+                <li class="nav-button">
+                    <a href="www.google.com"><div class="inline-block">Work</div></a>
+                </li>
+                <li class="nav-button">
+                    <a href="www.google.com"><div class="inline-block">Skills</div></a>
+                </li>
+                <li class="nav-button">
+                    <a href="www.google.com"><div class="inline-block">Contact</div></a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <section class="heroSection">
+        </div>
+        <div class="leftHero">
+            <img src="/Users/emmarobertson/Desktop/UX_UI_HW_18/Tiger.jpg">
+        </div> 
+        <div class="heroContent">
+            <h1>UX/UI DESIGNER</h1>
+            <p>Hi, I'm Emma. Empathetic by nature and driven by a passion for problem solving, I love finding ways to make the human experience a little easier and more fun.</p>
+        </div>
+       
+            <button>Download Resume</button>
+        </div>
+    </section>
+<!--My Skills Section Flex-->
+    <h1 class="heading">My UX Skills</h1>    
+    <section class="flexContainer">
+        <div class="skill-1">
+            <h3>User Research</h3>
+            <p>Creating user personas to get to know the pains and motivations of users and investigating ways to solve problems. Facilitating design sprints, performing card sorts and other brainstorming activites.  </p>
+        </div>
+        <div class="skill-2"> 
+            <h3>Wireframing and Prototyping</h3>
+            <p> Ability to create rapid prototypes with Figma, Adobe XD, and Invision</p>
+        </div>
+        <div class="skill-3">
+            <h3>UX Writing</h3>
+            <p>With a background in English LIterature, language is my first love. I like to find just the write words to help get the story across. </p>
+        </div>
+    </section>
+<!--My Work Section Grids--> 
+    <h1 class="heading">My Work</h1>
+    <section class="myWork">
+        <div class="workGrid">
+            <div class="img1"> 
+                <img src=>
+            </div>
+            <div class="content1">
+                <h4>RESPONSIVE WEB REDESIGN: The Art Room Denton Nonprofit Team Project Role: UX/UI DESIGNER</h4>
+                <p>Redesign the donation process, making it more interactive.</p>
+                <button>SEE MORE</button>   
+            </div>
+            <div class="img2"> 
+                <img src=></div>
+            <div class="content2"> 
+                <h4>MOBILE PROTOTYPE: OFFbeat Original App Design My Role: UX/UI Designer</h4>
+                <p> A roadtrip app that helps you experience places off the beaten path</p>
+                <button>SEE MORE</button>
+            </div>
+            <div class="img3"> 
+                <img src=""></div>
+            <div class="content3"> 
+                <h4>MOBILE PROTOTYPE: GardenTender Role: UX/UI Designer</h4>
+                <p> Join or create a community garden with likeminded people in your area</p>
+                <button>SEE MORE</button>
+            </div>
+        </div>
+    </section>
+<!--Footer-->   
+    <footer>
+        <div class="footer-button-container">
+            <ul>
+                <li class="footer-button">
+                    <a href="www.google.com"><div class="inline-block">About</div></a>
+                </li>
+                <li class="footer-button">
+                    <a href="www.google.com"><div class="inline-block">Work</div></a>
+               </li>
+               <li class="footer-button">
+                    <a href="www.google.com"><div class="inline-block">Skills</div></a>
+               </li>
+               <li class="footer-button">
+                    <a href="www.google.com"><div class="inline-block">Contact</div></a>
+               </li>
+            </ul>
+        </div>
+    </footer>
+</body>
+</html>
